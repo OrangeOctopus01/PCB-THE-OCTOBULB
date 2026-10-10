@@ -1,0 +1,16 @@
+M48
+INCH,LZ
+;FILE_FORMAT=2:4
+;TYPE=NON_PLATED
+;Layer: NPTH_Through
+;EasyEDA v6.5.54, 2026-10-09 17:51:49
+;68e34d61095949c3a1eb3a46ff3b38ea,10
+;Gerber Generator version 0.2
+;Holesize 1 = 0.1000 inch
+T01C0.1000
+%
+G05
+G90
+T01
+X028500Y013500
+M30
